@@ -122,7 +122,7 @@
                                     <a href="<?= base_url('owner/produk') ?>">Produk Terjual</a>
                                 </li>
                                 <li>
-                                    <a href="<?= base_url('owner/print') ?>">Print Laporan</a>
+                                    <a href="<?= base_url('owner/printReport') ?>">Print Laporan</a>
                                 </li>
                             </ul>
                         </li>

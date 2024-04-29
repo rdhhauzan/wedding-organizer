@@ -31,7 +31,7 @@ class Owner extends CI_Controller
         $this->template->load('layout_owner', 'admin/laporan/index', $data);
     }
 
-    function print()
+    function printReport()
     {
         $data =  array(
             'data_category' => $this->CategoryModel->getAll(),
