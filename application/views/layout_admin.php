@@ -193,7 +193,7 @@
                                     <a href="<?= base_url('laporan') ?>">Produk Terjual</a>
                                 </li>
                                 <li>
-                                    <a href="<?= base_url('laporan/print') ?>">Print Laporan</a>
+                                    <a href="<?= base_url('laporan/printReport') ?>">Print Laporan</a>
                                 </li>
                             </ul>
                         </li>
