@@ -23,6 +23,10 @@
             line-height: 150%;
             color: #222222;
         }
+
+        .header-content {
+            background-color: yellow !important;
+        }
     </style>
 </head>
 

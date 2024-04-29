@@ -1899,7 +1899,7 @@ header {
 	width: 100%;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: rgba(185, 248, 222, 0.9);
+	background-color: yellow !important;
 }
 
 .header-box {
